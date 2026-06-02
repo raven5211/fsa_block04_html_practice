@@ -1,0 +1,38 @@
+nav {
+  border: 2px solid fuchsia;
+  background-color: gold;
+}
+
+nav a {
+  padding-inline: 2rem;
+}
+
+#equipHeader {
+  color: darkturquoise;
+}
+
+#directHeader {
+  color: forestgreen;
+}
+
+img {
+  height: 25rem;
+  width: auto;
+}
+
+.fixedFooter {
+  border: 2px dotted cornflowerblue;
+  background-color: cornsilk;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
